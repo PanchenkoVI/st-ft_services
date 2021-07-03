@@ -1,0 +1,44 @@
+body {
+    margin: 10%;
+	height: 100%;
+
+    background: rgb(240, 240, 240);
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+    justify-content: stretch;
+    color: rgb(240, 240, 240);
+}
+
+.left {
+    cursor: pointer;
+    margin: .5rem;
+    padding: .5rem;
+    height: 3rem;
+    width: 17rem;
+	opacity: 0.7;
+ 	background: #111; /* Цвет фона */
+    border: 3px solid rgb(1, 1, 1);
+    border-radius: 2rem;
+    border: 2px solid rgb(1, 1, 1);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.left:hover {
+    background: rgb(98, 212, 22);
+}
+
+.left:active {
+    background:rgb(1, 1, 1);
+}
+
+a {
+    color: rgb(240, 240, 240);
+    text-decoration: none;
+}
+
+li {
+    list-style-type: none;
+}
