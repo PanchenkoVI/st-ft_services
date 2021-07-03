@@ -34,27 +34,27 @@ kubectl exec deploy/nginx -- pkill sshd ; kubectl exec deploy/ftps -- pkill vsft
 https://ru.wikipedia.org/wiki/Kubernetes
 https://kubernetes.io/ru/
 
-# NGINX:
+### NGINX:
 https://nginx.org/ru/
 https://ru.wikipedia.org/wiki/Nginx
 
-# MYSQL:
+### MYSQL:
 https://ru.wikipedia.org/wiki/MySQL
 https://metanit.com/sql/mysql/
 
-# PHPADMIN:
+### PHPADMIN:
 https://www.phpmyadmin.net/
 
-# WORDPRESS:
+### WORDPRESS:
 https://ru.wordpress.org/
 https://ru.wikipedia.org/wiki/WordPress
 
-# FTPS:
+### FTPS:
 https://ru.wikipedia.org/wiki/FTPS
 https://habr.com/ru/post/500438/
 
-# TELEGRAF and INFLUXDB:
+### TELEGRAF and INFLUXDB:
 https://www.influxdata.com/time-series-platform/telegraf/
 
-# GRAFANA
+### GRAFANA
 https://grafana.com/
