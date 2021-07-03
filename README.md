@@ -32,6 +32,7 @@ kubectl exec deploy/nginx -- pkill sshd ; kubectl exec deploy/ftps -- pkill vsft
 
 ## Additional Information
 https://ru.wikipedia.org/wiki/Kubernetes
+
 https://kubernetes.io/ru/
 
 ### NGINX:
